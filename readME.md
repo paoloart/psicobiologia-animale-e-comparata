@@ -1,6 +1,10 @@
-# Guida all'uso dell'applicazione Quiz Domande
+# Guida all'uso dell'applicazione Domande Psicobiologia Comparata
 
+<<<<<<< HEAD
 L'applicazione Quiz Domande permette di svolgere un quiz con domande caricate da file di testo, monitorando il tempo impiegato per rispondere a ciascuna domanda. E' possibile modificare o aggiungere domande modificando i file prima_parte.txt, seconda_parte.txt, terza_parte.txt
+=======
+L'applicazione permette di svolgere un quiz con domande caricate da file di testo, monitorando il tempo impiegato per rispondere a ciascuna domanda.
+>>>>>>> 0819f6eb423697a29bbc0fad402692915ca36d6f
 
 ## Installazione
 
@@ -8,9 +12,13 @@ Prima di poter utilizzare l'applicazione, è necessario installare le dipendenze
 
 pip install -r requirements.txt
 
+<<<<<<< HEAD
 Da incollare nel terminale.
 
 Assicurati di avere installato Python e pip sul tuo sistema prima di eseguire questo comando. Per usare Python puoi usare risorse gratuite come Visual Studio Code
+=======
+Assicurati di avere installato Python e pip sul tuo sistema prima di eseguire questo comando.
+>>>>>>> 0819f6eb423697a29bbc0fad402692915ca36d6f
 
 ## Avvio dell'applicazione
 
@@ -43,7 +51,7 @@ Ogni volta che rispondi a una domanda, premi il tasto "Return" sulla tua tastier
 
 ### Pausa
 
-Se hai bisogno di una pausa, puoi premere il pulsante "Pausa". Premilo di nuovo per riprendere.
+Se hai bisogno di una pausa, puoi premere il pulsante "Pausa". Premilo di nuovo per riprendere. Questa parte presenta ancora un bug da risolvere ma non compromette il funzionamento del programma
 
 ### Resetta il programma
 
