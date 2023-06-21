@@ -1,6 +1,6 @@
 # Guida all'uso dell'applicazione Quiz Domande
 
-L'applicazione Quiz Domande permette di svolgere un quiz con domande caricate da file di testo, monitorando il tempo impiegato per rispondere a ciascuna domanda.
+L'applicazione Quiz Domande permette di svolgere un quiz con domande caricate da file di testo, monitorando il tempo impiegato per rispondere a ciascuna domanda. E' possibile modificare o aggiungere domande modificando i file prima_parte.txt, seconda_parte.txt, terza_parte.txt
 
 ## Installazione
 
@@ -8,8 +8,9 @@ Prima di poter utilizzare l'applicazione, è necessario installare le dipendenze
 
 pip install -r requirements.txt
 
+Da incollare nel terminale.
 
-Assicurati di avere installato Python e pip sul tuo sistema prima di eseguire questo comando.
+Assicurati di avere installato Python e pip sul tuo sistema prima di eseguire questo comando. Per usare Python puoi usare risorse gratuite come Visual Studio Code
 
 ## Avvio dell'applicazione
 
@@ -17,6 +18,7 @@ Dopo aver installato le dipendenze, l'applicazione può essere avviata eseguendo
 
 python main.py
 
+Se stai usando Visual Studio Code vai sul file main.py e clicca la freccia che si trova in alto a destra per runnare il codice
 
 ## Utilizzo dell'applicazione
 
