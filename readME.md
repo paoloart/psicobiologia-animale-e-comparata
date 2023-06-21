@@ -1,6 +1,6 @@
 # Guida all'uso dell'applicazione Domande Psicobiologia Comparata
 
-<<<<<<< HEAD
+HEAD
 L'applicazione Quiz Domande permette di svolgere un quiz con domande caricate da file di testo, monitorando il tempo impiegato per rispondere a ciascuna domanda. E' possibile modificare o aggiungere domande modificando i file prima_parte.txt, seconda_parte.txt, terza_parte.txt
 =======
 L'applicazione permette di svolgere un quiz con domande caricate da file di testo, monitorando il tempo impiegato per rispondere a ciascuna domanda. Il file è OpenSource e pensato per coloro che devono sostenere l'esame di Psicobiologia Animale e Comparata ma può essere riadattato per qualsiasi altro utilizzo. Il programma non è una risorsa ufficiale del corso, ma uno strumento per randomizzare le domande sviluppato da uno studente.
