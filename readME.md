@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 L'applicazione Quiz Domande permette di svolgere un quiz con domande caricate da file di testo, monitorando il tempo impiegato per rispondere a ciascuna domanda. E' possibile modificare o aggiungere domande modificando i file prima_parte.txt, seconda_parte.txt, terza_parte.txt
 =======
-L'applicazione permette di svolgere un quiz con domande caricate da file di testo, monitorando il tempo impiegato per rispondere a ciascuna domanda.
+L'applicazione permette di svolgere un quiz con domande caricate da file di testo, monitorando il tempo impiegato per rispondere a ciascuna domanda. Il file è OpenSource e pensato per coloro che devono sostenere l'esame di Psicobiologia Animale e Comparata ma può essere riadattato per qualsiasi altro utilizzo. Il programma non è una risorsa ufficiale del corso, ma uno strumento per randomizzare le domande sviluppato da uno studente.
 >>>>>>> 0819f6eb423697a29bbc0fad402692915ca36d6f
 
 ## Installazione
@@ -39,7 +39,7 @@ L'applicazione fornisce tre opzioni per caricare i file di domande:
 2. "Seconda parte"
 3. "Terza parte"
 
-Spunta le caselle corrispondenti ai file che desideri utilizzare per il tuo quiz.
+Spunta le caselle corrispondenti ai file che desideri utilizzare per il tuo quiz. Le domande fanno riferimento all'anno accademico 2020/2021. Se sei di un altro anno puoi andare a modificare i file di testo aggiornandoli con le domande degli anni successivi.
 
 ### Inizia le domande
 
